@@ -1,0 +1,145 @@
+---
+-  id: 1
+  order: 1
+  title : The Fools in Town Are On Our Side  
+  author: ross thomas    
+  setting:  US 
+  protagonist:  male
+  sub-genre: satirical
+  sentence: The debriefing took ten days in a sealed-off suite in the old section of the Army's Letterman general Hospital on the Presidio in San Francisco and when that was finished, so was my career--if it could be called that.  
+
+- id: 2
+  order: 2
+  title : The Fools in Town Are On Our Side  
+  author: ross thomas    
+  setting:  US 
+  protagonist:  male
+  sub-genre:  satirical
+  sentence: They were polite enough throughout, perhaps even a bit embarrassed, providing that they felt anything at all, which I doubted, and the embarrassment may have prompted their unusual generosity when it came to the matter of severance pay.
+
+- id: 3
+  order: 1 
+  title: The Big Sleep   
+  author:  Raymond Chandler
+  setting:  US
+  protagonist:  male
+  sub-genre: noir
+  sentence: Beyond the garage were some decorative trees trimmed as carefully as poodle dogs.  
+
+-  id: 4
+   order: 2
+   title: The Big Sleep   
+   author:  Raymond Chandler
+   setting:  US 
+   protagonist:  male
+   sub-genre: noir
+   Beyond them a large greenhouse with a domed roof.  
+
+-  id: 5 
+   order: 3
+   title: The Big Sleep   
+   author:  Raymond Chandler
+   setting:  US 
+   protagonist:  male
+   sub-genre: noir
+   sentence:  Then more trees and beyond everything, the solid, uneven, comfortable line of the foothills.
+
+-  id: 6
+   order: 1
+   title:  Rebecca   
+   author:  Daphne Du Maurier  
+   setting:  non-US 
+   protagonist:  female
+   sub-genre: romantic mystery
+   sentence: No smoke came from the chimney, and the little lattice windows gaped forlorn.  
+
+-  id: 7
+   order: 2
+   title:  Rebecca   
+   author:  Daphne Du Maurier  
+   setting:  non-US 
+   protagonist:  female
+   sub-genre: romantic mystery
+   sentence: Then like all dreamers, I was possessed of a sudden supernatural powers and passed like a spirit through the barrier before me.  
+
+-  id: 8
+   order: 1
+   title: Three to Get Deadly   
+   author:  janet evanovich  
+   setting:  US 
+   protagonist:  female
+   sub-genre: legal mystery
+   sentence : It was January in Trenton.  
+
+-  id: 9
+   order: 2
+   title: Three to Get Deadly   
+   author:  janet evanovich  
+   setting:  US 
+   protagonist:  female
+   sub-genre:  whodunit
+   sentence: The sky was gunmetal gray and the air sat dead cold on cars and sidewalks.
+   
+-  id: 10
+   order: 1
+   title : Crooked House  
+   author:  agatha christie   
+   setting: non-US  
+   protagonist: male
+   sub-genre: whodunit
+   sentence:  I returned to England on a soft grey day in September.  
+
+-  id: 11
+   order: 2
+   title : Crooked House  
+   author:  agatha christie   
+   setting: non-US  
+   protagonist: male
+   sub-genre: whodunit
+   sentence: The leaves on the trees were golden in the evening light.
+
+-  id: 12
+   order: 1
+   title : Inadvertent Disclosure
+   author:  melissa miller
+   setting: US
+   protagonist: female
+   sub-genre: legal mystery
+   sentence : Maybe she could get Vita-Might's commercial landlord to foot the bill for her prep work, not to mention the seven-plus hours round-trip travel time for driving all the way up to northern Pennsylvania to argue the motion.  
+
+-  id:  13
+   order: 1
+   title : Polar Star  
+   author: martin cruz smith
+   setting: non-US
+   protagonist:  male
+   sub-genre: political
+   sentence:  Like a beast, the nest came steaming up the ramp and into the sodium lamps of the trawl deck.  
+
+-  id: 14
+   order: 2
+   title : Polar Star  
+   author: martin cruz smith
+   setting: non-US
+   protagonist:  male
+   sub-genre: political
+   sentence:  Like a gleaming pelt, mats of red, blue, orange strips covered the mesh:  plastic "chafing hair" designed to ease the net's way over the rocks of the sea bottom.  
+
+-  id: 15
+   order: 1
+   title : Violetta   
+   author:  pieke biermann
+   setting: non-US
+   protagonist: male
+   sub-genre: noir
+   sentence :  Last season's joke about doing your bit to punch a hole in the ozone was no longer funny.  
+
+-  id: 16
+   order: 2
+   title : Violetta   
+   author:  pieke biermann
+   setting: non-US
+   protagonist: male
+   sub-genre: noir
+   sentence:  Most of the people living here seemed to have fallen into the hole, and for the first time in their lives seem to sense that the sun can be a violent planet. 
+...
